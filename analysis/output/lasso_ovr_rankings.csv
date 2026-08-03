@@ -1,0 +1,796 @@
+archetype,rank,stat,coefficient,abs_coefficient
+Accurate - KP,1,kick_acc_rating,1.006031,1.006031
+Accurate - KP,2,awareness_rating,0.803836,0.803836
+Accurate - KP,3,kick_power_rating,0.056093,0.056093
+Accurate - LS,1,awareness_rating,3.260846,3.260846
+Accurate - LS,2,injury_rating,1.857943,1.857943
+Accurate - LS,3,tackle_rating,1.41581,1.41581
+Accurate - LS,4,spin_move_rating,1.021763,1.021763
+Accurate - LS,5,man_cover_rating,0.854515,0.854515
+Accurate - LS,6,stamina_rating,0.775433,0.775433
+Accurate - LS,7,release_rating,-0.691873,0.691873
+Accurate - LS,8,pass_block_rating,0.676026,0.676026
+Accurate - LS,9,accel_rating,0.516114,0.516114
+Accurate - LS,10,change_of_direction_rating,0.503379,0.503379
+Accurate - LS,11,run_block_rating,0.49581,0.49581
+Accurate - LS,12,play_rec_rating,-0.430151,0.430151
+Accurate - LS,13,speed_rating,0.323426,0.323426
+Accurate - LS,14,cit_rating,-0.321286,0.321286
+Accurate - LS,15,throw_power_rating,-0.313347,0.313347
+Accurate - LS,16,throw_acc_deep_rating,-0.304629,0.304629
+Accurate - LS,17,throw_under_pressure_rating,-0.24002,0.24002
+Accurate - LS,18,lead_block_rating,0.120782,0.120782
+Accurate - LS,19,throw_acc_mid_rating,-0.070776,0.070776
+Agile - C,1,awareness_rating,2.461381,2.461381
+Agile - C,2,run_block_finesse_rating,2.212083,2.212083
+Agile - C,3,pass_block_finesse_rating,2.046097,2.046097
+Agile - C,4,run_block_rating,0.661414,0.661414
+Agile - C,5,lead_block_rating,0.631878,0.631878
+Agile - C,6,run_block_power_rating,0.490609,0.490609
+Agile - C,7,pass_block_rating,0.468104,0.468104
+Agile - C,8,strength_rating,0.420284,0.420284
+Agile - C,9,impact_block_rating,0.342098,0.342098
+Agile - C,10,tough_rating,-0.279749,0.279749
+Agile - C,11,speed_rating,0.228724,0.228724
+Agile - C,12,accel_rating,0.205469,0.205469
+Agile - C,13,finesse_moves_rating,0.134454,0.134454
+Agile - C,14,agility_rating,0.12302,0.12302
+Agile - C,15,play_action_rating,0.088869,0.088869
+Agile - C,16,carry_rating,-0.064143,0.064143
+Agile - C,17,zone_cover_rating,-0.046786,0.046786
+Agile - C,18,juke_move_rating,-0.027937,0.027937
+Agile - C,19,block_shed_rating,-0.011957,0.011957
+Agile - C,20,break_sack_rating,-0.010509,0.010509
+Agile - C,21,kick_power_rating,-0.004113,0.004113
+Agile - G,1,pass_block_finesse_rating,1.457226,1.457226
+Agile - G,2,awareness_rating,1.337919,1.337919
+Agile - G,3,run_block_finesse_rating,1.320377,1.320377
+Agile - G,4,run_block_rating,0.814834,0.814834
+Agile - G,5,strength_rating,0.675559,0.675559
+Agile - G,6,lead_block_rating,0.57753,0.57753
+Agile - G,7,pass_block_rating,0.352522,0.352522
+Agile - G,8,agility_rating,0.30054,0.30054
+Agile - G,9,impact_block_rating,0.26445,0.26445
+Agile - G,10,accel_rating,0.161353,0.161353
+Agile - G,11,speed_rating,0.102557,0.102557
+Agile - G,12,stiff_arm_rating,-0.049451,0.049451
+Agile - G,13,zone_cover_rating,0.017104,0.017104
+Agile - G,14,stamina_rating,0.014115,0.014115
+Agile - G,15,throw_under_pressure_rating,-0.012801,0.012801
+Agile - G,16,block_shed_rating,-0.006847,0.006847
+Agile - G,17,pass_block_power_rating,0.00609,0.00609
+Agile - G,18,kick_acc_rating,0.001537,0.001537
+Blocking - FB,1,tough_rating,3.485687,3.485687
+Blocking - FB,2,run_block_power_rating,1.020568,1.020568
+Blocking - FB,3,lead_block_rating,0.72513,0.72513
+Blocking - FB,4,pass_block_rating,0.583038,0.583038
+Blocking - FB,5,man_cover_rating,0.335389,0.335389
+Blocking - TE,1,awareness_rating,1.957098,1.957098
+Blocking - TE,2,break_tackle_rating,1.850188,1.850188
+Blocking - TE,3,man_cover_rating,0.626029,0.626029
+Blocking - TE,4,speed_rating,0.060333,0.060333
+Blocking - TE,5,press_rating,0.021204,0.021204
+Blocking - TE,6,change_of_direction_rating,0.000121,0.000121
+Blocking - TE,7,run_block_finesse_rating,0.000113,0.000113
+Deep Threat - WR,1,route_run_med_rating,1.517338,1.517338
+Deep Threat - WR,2,awareness_rating,1.444535,1.444535
+Deep Threat - WR,3,catch_rating,0.898084,0.898084
+Deep Threat - WR,4,release_rating,0.780726,0.780726
+Deep Threat - WR,5,speed_rating,0.732404,0.732404
+Deep Threat - WR,6,juke_move_rating,0.727219,0.727219
+Deep Threat - WR,7,cit_rating,0.677504,0.677504
+Deep Threat - WR,8,spec_catch_rating,0.634736,0.634736
+Deep Threat - WR,9,agility_rating,0.619373,0.619373
+Deep Threat - WR,10,accel_rating,0.365393,0.365393
+Deep Threat - WR,11,route_run_short_rating,0.349563,0.349563
+Deep Threat - WR,12,route_run_deep_rating,0.348966,0.348966
+Deep Threat - WR,13,zone_cover_rating,0.244165,0.244165
+Deep Threat - WR,14,bcv_rating,0.226819,0.226819
+Deep Threat - WR,15,jump_rating,0.179845,0.179845
+Deep Threat - WR,16,press_rating,-0.176011,0.176011
+Deep Threat - WR,17,kick_ret_rating,0.144557,0.144557
+Deep Threat - WR,18,hit_power_rating,-0.13344,0.13344
+Deep Threat - WR,19,play_action_rating,0.119265,0.119265
+Deep Threat - WR,20,lead_block_rating,0.102456,0.102456
+Deep Threat - WR,21,run_block_rating,-0.102413,0.102413
+Deep Threat - WR,22,man_cover_rating,0.08596,0.08596
+Deep Threat - WR,23,pass_block_finesse_rating,0.085413,0.085413
+Deep Threat - WR,24,finesse_moves_rating,-0.077016,0.077016
+Deep Threat - WR,25,throw_under_pressure_rating,-0.074555,0.074555
+Deep Threat - WR,26,kick_acc_rating,-0.072254,0.072254
+Deep Threat - WR,27,carry_rating,-0.069451,0.069451
+Deep Threat - WR,28,pass_block_power_rating,0.034639,0.034639
+Deep Threat - WR,29,break_tackle_rating,0.029819,0.029819
+Deep Threat - WR,30,pursuit_rating,-0.021862,0.021862
+Deep Threat - WR,31,injury_rating,-0.01736,0.01736
+Deep Threat - WR,32,kick_power_rating,-0.017045,0.017045
+Deep Threat - WR,33,impact_block_rating,0.01313,0.01313
+Deep Threat - WR,34,throw_on_run_rating,0.012329,0.012329
+Deep Threat - WR,35,change_of_direction_rating,0.000631,0.000631
+Elusive Back - HB,1,awareness_rating,2.56785,2.56785
+Elusive Back - HB,2,carry_rating,1.089825,1.089825
+Elusive Back - HB,3,agility_rating,1.074459,1.074459
+Elusive Back - HB,4,bcv_rating,1.031498,1.031498
+Elusive Back - HB,5,juke_move_rating,0.954468,0.954468
+Elusive Back - HB,6,spin_move_rating,0.924711,0.924711
+Elusive Back - HB,7,speed_rating,0.891615,0.891615
+Elusive Back - HB,8,change_of_direction_rating,0.754512,0.754512
+Elusive Back - HB,9,accel_rating,0.643797,0.643797
+Elusive Back - HB,10,break_tackle_rating,0.536868,0.536868
+Elusive Back - HB,11,run_block_rating,-0.087962,0.087962
+Elusive Back - HB,12,hit_power_rating,0.078538,0.078538
+Elusive Back - HB,13,run_block_finesse_rating,0.075695,0.075695
+Elusive Back - HB,14,catch_rating,0.073292,0.073292
+Elusive Back - HB,15,lead_block_rating,0.071418,0.071418
+Elusive Back - HB,16,impact_block_rating,-0.0639,0.0639
+Elusive Back - HB,17,tough_rating,-0.057011,0.057011
+Elusive Back - HB,18,pass_block_finesse_rating,-0.041665,0.041665
+Elusive Back - HB,19,throw_acc_deep_rating,-0.034293,0.034293
+Elusive Back - HB,20,kick_acc_rating,-0.025576,0.025576
+Elusive Back - HB,21,pass_block_rating,-0.024708,0.024708
+Elusive Back - HB,22,injury_rating,0.023225,0.023225
+Elusive Back - HB,23,spec_catch_rating,-0.020954,0.020954
+Elusive Back - HB,24,throw_under_pressure_rating,-0.020664,0.020664
+Elusive Back - HB,25,power_moves_rating,-0.018355,0.018355
+Elusive Back - HB,26,route_run_short_rating,-0.017936,0.017936
+Elusive Back - HB,27,strength_rating,0.01533,0.01533
+Elusive Back - HB,28,kick_ret_rating,-0.01498,0.01498
+Elusive Back - HB,29,throw_power_rating,0.014759,0.014759
+Elusive Back - HB,30,man_cover_rating,0.008755,0.008755
+Elusive Back - HB,31,release_rating,-0.004427,0.004427
+Elusive Back - HB,32,pass_block_power_rating,0.001052,0.001052
+Field General - MLB,1,play_rec_rating,2.461693,2.461693
+Field General - MLB,2,tackle_rating,1.826455,1.826455
+Field General - MLB,3,awareness_rating,1.66218,1.66218
+Field General - MLB,4,pursuit_rating,1.324299,1.324299
+Field General - MLB,5,block_shed_rating,0.854582,0.854582
+Field General - MLB,6,zone_cover_rating,0.786339,0.786339
+Field General - MLB,7,strength_rating,0.776883,0.776883
+Field General - MLB,8,accel_rating,0.541598,0.541598
+Field General - MLB,9,man_cover_rating,0.406315,0.406315
+Field General - MLB,10,agility_rating,0.265136,0.265136
+Field General - MLB,11,change_of_direction_rating,0.259861,0.259861
+Field General - MLB,12,speed_rating,0.185926,0.185926
+Field General - MLB,13,impact_block_rating,0.156335,0.156335
+Field General - MLB,14,break_tackle_rating,-0.109952,0.109952
+Field General - MLB,15,stamina_rating,-0.076267,0.076267
+Field General - MLB,16,catch_rating,0.075847,0.075847
+Field General - MLB,17,lead_block_rating,0.074306,0.074306
+Field General - MLB,18,spin_move_rating,0.072828,0.072828
+Field General - MLB,19,play_action_rating,-0.070484,0.070484
+Field General - MLB,20,jump_rating,0.070416,0.070416
+Field General - MLB,21,carry_rating,-0.052078,0.052078
+Field General - MLB,22,route_run_deep_rating,-0.046938,0.046938
+Field General - MLB,23,press_rating,0.046906,0.046906
+Field General - MLB,24,injury_rating,-0.04516,0.04516
+Field General - MLB,25,kick_acc_rating,0.042754,0.042754
+Field General - MLB,26,run_block_rating,-0.039214,0.039214
+Field General - MLB,27,release_rating,-0.034161,0.034161
+Field General - MLB,28,bcv_rating,-0.032695,0.032695
+Field General - MLB,29,hit_power_rating,0.029735,0.029735
+Field General - MLB,30,tough_rating,0.024515,0.024515
+Field General - MLB,31,finesse_moves_rating,0.017252,0.017252
+Field General - MLB,32,throw_on_run_rating,-0.010079,0.010079
+Field General - MLB,33,spec_catch_rating,0.00841,0.00841
+Field General - MLB,34,pass_block_power_rating,-0.007282,0.007282
+Field General - MLB,35,route_run_short_rating,-0.002021,0.002021
+Field General - MLB,36,pass_block_rating,0.001548,0.001548
+Field General - QB,1,throw_acc_mid_rating,2.659336,2.659336
+Field General - QB,2,awareness_rating,2.518175,2.518175
+Field General - QB,3,throw_power_rating,1.775346,1.775346
+Field General - QB,4,throw_acc_short_rating,1.662363,1.662363
+Field General - QB,5,throw_on_run_rating,0.988231,0.988231
+Field General - QB,6,throw_acc_deep_rating,0.897968,0.897968
+Field General - QB,7,throw_under_pressure_rating,0.593461,0.593461
+Field General - QB,8,break_sack_rating,0.588129,0.588129
+Field General - QB,9,kick_ret_rating,-0.2951,0.2951
+Field General - QB,10,impact_block_rating,-0.28126,0.28126
+Field General - QB,11,bcv_rating,0.221129,0.221129
+Field General - QB,12,tackle_rating,0.186133,0.186133
+Field General - QB,13,run_block_finesse_rating,0.080646,0.080646
+Field General - QB,14,catch_rating,0.079031,0.079031
+Field General - QB,15,pass_block_power_rating,0.014639,0.014639
+Field General - QB,16,carry_rating,0.012948,0.012948
+Field General - QB,17,agility_rating,0.00668,0.00668
+Hybrid - S,1,awareness_rating,2.184187,2.184187
+Hybrid - S,2,man_cover_rating,1.248436,1.248436
+Hybrid - S,3,tackle_rating,1.107957,1.107957
+Hybrid - S,4,play_rec_rating,0.669924,0.669924
+Hybrid - S,5,accel_rating,0.602323,0.602323
+Hybrid - S,6,zone_cover_rating,0.509248,0.509248
+Hybrid - S,7,agility_rating,0.503059,0.503059
+Hybrid - S,8,speed_rating,0.485106,0.485106
+Hybrid - S,9,press_rating,0.319116,0.319116
+Hybrid - S,10,pursuit_rating,0.294397,0.294397
+Hybrid - S,11,jump_rating,0.279638,0.279638
+Hybrid - S,12,change_of_direction_rating,0.209542,0.209542
+Hybrid - S,13,strength_rating,0.136014,0.136014
+Hybrid - S,14,release_rating,0.048602,0.048602
+Hybrid - S,15,catch_rating,0.037902,0.037902
+Hybrid - S,16,power_moves_rating,-0.036796,0.036796
+Hybrid - S,17,truck_rating,-0.027064,0.027064
+Hybrid - S,18,throw_acc_deep_rating,-0.019983,0.019983
+Hybrid - S,19,break_sack_rating,0.011651,0.011651
+Hybrid - S,20,kick_power_rating,-0.01108,0.01108
+Hybrid - S,21,kick_acc_rating,-0.006953,0.006953
+Hybrid - S,22,lead_block_rating,0.006198,0.006198
+Hybrid - S,23,bcv_rating,0.005909,0.005909
+Hybrid - S,24,tough_rating,0.004909,0.004909
+Improviser - QB,1,throw_on_run_rating,4.469197,4.469197
+Improviser - QB,2,throw_under_pressure_rating,2.544344,2.544344
+Improviser - QB,3,throw_power_rating,1.089059,1.089059
+Improviser - QB,4,throw_acc_short_rating,1.030518,1.030518
+Improviser - QB,5,tough_rating,0.677265,0.677265
+Improviser - QB,6,jump_rating,0.648389,0.648389
+Improviser - QB,7,kick_acc_rating,-0.057898,0.057898
+Improviser - QB,8,strength_rating,0.030166,0.030166
+Improviser - QB,9,stamina_rating,0.000782,0.000782
+Manto Man - CB,1,man_cover_rating,2.596768,2.596768
+Manto Man - CB,2,awareness_rating,1.936641,1.936641
+Manto Man - CB,3,play_rec_rating,1.138864,1.138864
+Manto Man - CB,4,press_rating,0.883006,0.883006
+Manto Man - CB,5,speed_rating,0.815105,0.815105
+Manto Man - CB,6,accel_rating,0.706281,0.706281
+Manto Man - CB,7,tackle_rating,0.51423,0.51423
+Manto Man - CB,8,change_of_direction_rating,0.433199,0.433199
+Manto Man - CB,9,agility_rating,0.284656,0.284656
+Manto Man - CB,10,zone_cover_rating,0.281113,0.281113
+Manto Man - CB,11,jump_rating,0.16772,0.16772
+Manto Man - CB,12,pass_block_finesse_rating,-0.150112,0.150112
+Manto Man - CB,13,catch_rating,0.137137,0.137137
+Manto Man - CB,14,run_block_finesse_rating,0.085271,0.085271
+Manto Man - CB,15,throw_acc_mid_rating,0.077075,0.077075
+Manto Man - CB,16,pursuit_rating,0.051568,0.051568
+Manto Man - CB,17,stamina_rating,0.050792,0.050792
+Manto Man - CB,18,lead_block_rating,-0.047489,0.047489
+Manto Man - CB,19,stiff_arm_rating,-0.046383,0.046383
+Manto Man - CB,20,tough_rating,0.043423,0.043423
+Manto Man - CB,21,finesse_moves_rating,0.038492,0.038492
+Manto Man - CB,22,cit_rating,0.037695,0.037695
+Manto Man - CB,23,impact_block_rating,-0.029976,0.029976
+Manto Man - CB,24,injury_rating,-0.029123,0.029123
+Manto Man - CB,25,route_run_med_rating,-0.028471,0.028471
+Manto Man - CB,26,hit_power_rating,0.015291,0.015291
+Manto Man - CB,27,power_moves_rating,-0.013853,0.013853
+Manto Man - CB,28,bcv_rating,0.012991,0.012991
+Manto Man - CB,29,break_sack_rating,-0.011518,0.011518
+Manto Man - CB,30,juke_move_rating,0.006514,0.006514
+Manto Man - CB,31,block_shed_rating,-0.005315,0.005315
+Pass Coverage - MLB,1,pursuit_rating,2.587445,2.587445
+Pass Coverage - MLB,2,zone_cover_rating,2.06202,2.06202
+Pass Coverage - MLB,3,play_rec_rating,0.807379,0.807379
+Pass Coverage - MLB,4,change_of_direction_rating,0.59526,0.59526
+Pass Coverage - MLB,5,hit_power_rating,0.36018,0.36018
+Pass Coverage - MLB,6,kick_power_rating,-0.343076,0.343076
+Pass Coverage - MLB,7,tough_rating,0.340034,0.340034
+Pass Coverage - MLB,8,agility_rating,0.094499,0.094499
+Pass Coverage - MLB,9,accel_rating,0.042689,0.042689
+Pass Coverage - OLB,1,awareness_rating,3.617899,3.617899
+Pass Coverage - OLB,2,zone_cover_rating,1.575522,1.575522
+Pass Coverage - OLB,3,tackle_rating,1.193244,1.193244
+Pass Coverage - OLB,4,pursuit_rating,0.919664,0.919664
+Pass Coverage - OLB,5,accel_rating,0.486958,0.486958
+Pass Coverage - OLB,6,speed_rating,0.441004,0.441004
+Pass Coverage - OLB,7,man_cover_rating,0.409302,0.409302
+Pass Coverage - OLB,8,agility_rating,0.369955,0.369955
+Pass Coverage - OLB,9,block_shed_rating,0.300278,0.300278
+Pass Coverage - OLB,10,play_rec_rating,0.2193,0.2193
+Pass Coverage - OLB,11,stamina_rating,0.179396,0.179396
+Pass Coverage - OLB,12,change_of_direction_rating,0.174514,0.174514
+Pass Coverage - OLB,13,kick_power_rating,-0.132762,0.132762
+Pass Coverage - OLB,14,kick_ret_rating,0.10504,0.10504
+Pass Coverage - OLB,15,throw_power_rating,-0.093252,0.093252
+Pass Coverage - OLB,16,strength_rating,0.059113,0.059113
+Pass Coverage - OLB,17,truck_rating,-0.031269,0.031269
+Pass Coverage - OLB,18,finesse_moves_rating,0.025878,0.025878
+Pass Coverage - OLB,19,press_rating,0.022829,0.022829
+Pass Coverage - OLB,20,tough_rating,-0.01655,0.01655
+Pass Coverage - OLB,21,stiff_arm_rating,0.011262,0.011262
+Pass Coverage - OLB,22,break_tackle_rating,0.0045,0.0045
+Pass Protector - G,1,pass_block_rating,5.250118,5.250118
+Pass Protector - G,2,pass_block_finesse_rating,2.099919,2.099919
+Pass Protector - G,3,stamina_rating,1.293205,1.293205
+Pass Protector - G,4,throw_under_pressure_rating,0.417976,0.417976
+Pass Protector - G,5,truck_rating,0.173535,0.173535
+Pass Protector - G,6,awareness_rating,0.088166,0.088166
+Pass Protector - OT,1,pass_block_rating,2.142195,2.142195
+Pass Protector - OT,2,pass_block_finesse_rating,2.038432,2.038432
+Pass Protector - OT,3,pass_block_power_rating,1.861466,1.861466
+Pass Protector - OT,4,awareness_rating,0.963152,0.963152
+Pass Protector - OT,5,agility_rating,0.391218,0.391218
+Pass Protector - OT,6,impact_block_rating,0.327117,0.327117
+Pass Protector - OT,7,run_block_finesse_rating,0.323951,0.323951
+Pass Protector - OT,8,run_block_power_rating,0.279627,0.279627
+Pass Protector - OT,9,speed_rating,0.180656,0.180656
+Pass Protector - OT,10,stamina_rating,0.17272,0.17272
+Pass Protector - OT,11,hit_power_rating,-0.12502,0.12502
+Pass Protector - OT,12,run_block_rating,0.070741,0.070741
+Pass Protector - OT,13,press_rating,-0.059276,0.059276
+Pass Protector - OT,14,lead_block_rating,0.000109,0.000109
+Possession - TE,1,awareness_rating,2.068235,2.068235
+Possession - TE,2,route_run_short_rating,1.18517,1.18517
+Possession - TE,3,cit_rating,1.138237,1.138237
+Possession - TE,4,catch_rating,1.096262,1.096262
+Possession - TE,5,route_run_med_rating,0.631912,0.631912
+Possession - TE,6,run_block_rating,0.465029,0.465029
+Possession - TE,7,agility_rating,0.375157,0.375157
+Possession - TE,8,stiff_arm_rating,0.317104,0.317104
+Possession - TE,9,run_block_finesse_rating,0.316909,0.316909
+Possession - TE,10,route_run_deep_rating,0.294513,0.294513
+Possession - TE,11,lead_block_rating,0.280953,0.280953
+Possession - TE,12,break_tackle_rating,0.262653,0.262653
+Possession - TE,13,accel_rating,0.253606,0.253606
+Possession - TE,14,run_block_power_rating,0.24015,0.24015
+Possession - TE,15,impact_block_rating,0.207132,0.207132
+Possession - TE,16,release_rating,0.154508,0.154508
+Possession - TE,17,strength_rating,0.153336,0.153336
+Possession - TE,18,pass_block_rating,0.139124,0.139124
+Possession - TE,19,bcv_rating,0.120116,0.120116
+Possession - TE,20,speed_rating,0.113507,0.113507
+Possession - TE,21,pass_block_power_rating,0.111255,0.111255
+Possession - TE,22,jump_rating,0.068326,0.068326
+Possession - TE,23,pass_block_finesse_rating,0.051883,0.051883
+Possession - TE,24,play_action_rating,-0.049177,0.049177
+Possession - TE,25,finesse_moves_rating,0.04163,0.04163
+Possession - TE,26,change_of_direction_rating,0.038929,0.038929
+Possession - TE,27,throw_power_rating,0.035748,0.035748
+Possession - TE,28,throw_acc_short_rating,0.030879,0.030879
+Possession - TE,29,stamina_rating,0.027937,0.027937
+Possession - TE,30,kick_acc_rating,-0.013739,0.013739
+Possession - TE,31,man_cover_rating,-0.010294,0.010294
+Possession - TE,32,spec_catch_rating,0.009343,0.009343
+Possession - TE,33,spin_move_rating,0.009039,0.009039
+Power - C,1,awareness_rating,2.323223,2.323223
+Power - C,2,pass_block_power_rating,2.260194,2.260194
+Power - C,3,pass_block_finesse_rating,1.483179,1.483179
+Power - C,4,run_block_rating,1.175552,1.175552
+Power - C,5,run_block_power_rating,0.726163,0.726163
+Power - C,6,impact_block_rating,0.700237,0.700237
+Power - C,7,strength_rating,0.657214,0.657214
+Power - C,8,stamina_rating,0.346548,0.346548
+Power - C,9,injury_rating,-0.225161,0.225161
+Power - C,10,press_rating,-0.196576,0.196576
+Power - C,11,carry_rating,-0.183552,0.183552
+Power - C,12,tough_rating,0.174512,0.174512
+Power - C,13,hit_power_rating,0.169139,0.169139
+Power - C,14,throw_power_rating,0.159444,0.159444
+Power - C,15,accel_rating,0.149162,0.149162
+Power - C,16,kick_acc_rating,-0.147523,0.147523
+Power - C,17,change_of_direction_rating,0.142254,0.142254
+Power - C,18,man_cover_rating,0.118797,0.118797
+Power - C,19,agility_rating,0.118059,0.118059
+Power - C,20,spin_move_rating,0.115651,0.115651
+Power - C,21,truck_rating,-0.072914,0.072914
+Power - C,22,finesse_moves_rating,-0.047232,0.047232
+Power - C,23,kick_power_rating,0.045986,0.045986
+Power - C,24,break_sack_rating,0.041128,0.041128
+Power - C,25,speed_rating,0.033637,0.033637
+Power - C,26,spec_catch_rating,0.032614,0.032614
+Power - C,27,catch_rating,-0.025505,0.025505
+Power - C,28,route_run_short_rating,-0.009971,0.009971
+Power - G,1,pass_block_power_rating,1.953013,1.953013
+Power - G,2,run_block_power_rating,1.875977,1.875977
+Power - G,3,awareness_rating,1.754591,1.754591
+Power - G,4,run_block_rating,1.070083,1.070083
+Power - G,5,strength_rating,0.844385,0.844385
+Power - G,6,lead_block_rating,0.764861,0.764861
+Power - G,7,impact_block_rating,0.496432,0.496432
+Power - G,8,agility_rating,0.224587,0.224587
+Power - G,9,accel_rating,0.159184,0.159184
+Power - G,10,pass_block_rating,0.109178,0.109178
+Power - G,11,speed_rating,0.10128,0.10128
+Power - G,12,pass_block_finesse_rating,0.098125,0.098125
+Power - G,13,spec_catch_rating,0.048885,0.048885
+Power - G,14,tough_rating,0.015876,0.015876
+Power - G,15,man_cover_rating,0.006921,0.006921
+Power - G,16,throw_under_pressure_rating,-0.005181,0.005181
+Power - G,17,play_rec_rating,0.004457,0.004457
+Power - G,18,press_rating,0.002694,0.002694
+Power - G,19,bcv_rating,0.00191,0.00191
+Power - G,20,throw_power_rating,0.000743,0.000743
+Power - KP,1,awareness_rating,2.19992,2.19992
+Power - KP,2,kick_acc_rating,0.880417,0.880417
+Power - KP,3,kick_power_rating,0.832882,0.832882
+Power - KP,4,cit_rating,-0.454135,0.454135
+Power - KP,5,route_run_med_rating,0.412985,0.412985
+Power - KP,6,strength_rating,0.160535,0.160535
+Power - KP,7,throw_power_rating,0.156552,0.156552
+Power - KP,8,play_rec_rating,0.132631,0.132631
+Power - KP,9,catch_rating,0.120725,0.120725
+Power - KP,10,power_moves_rating,0.114579,0.114579
+Power - KP,11,agility_rating,0.113323,0.113323
+Power - KP,12,lead_block_rating,0.105168,0.105168
+Power - KP,13,break_sack_rating,0.094346,0.094346
+Power - KP,14,carry_rating,-0.079722,0.079722
+Power - KP,15,throw_acc_short_rating,-0.067002,0.067002
+Power - KP,16,play_action_rating,-0.060242,0.060242
+Power - KP,17,throw_under_pressure_rating,0.052549,0.052549
+Power - KP,18,jump_rating,0.041395,0.041395
+Power - KP,19,impact_block_rating,0.035372,0.035372
+Power - KP,20,injury_rating,0.032638,0.032638
+Power - KP,21,pass_block_finesse_rating,0.028998,0.028998
+Power - KP,22,tackle_rating,0.026079,0.026079
+Power - KP,23,block_shed_rating,0.022488,0.022488
+Power - KP,24,stamina_rating,-0.020703,0.020703
+Power - KP,25,change_of_direction_rating,0.017233,0.017233
+Power - KP,26,kick_ret_rating,0.013992,0.013992
+Power - KP,27,run_block_rating,-0.013625,0.013625
+Power - KP,28,man_cover_rating,-0.01193,0.01193
+Power - KP,29,route_run_deep_rating,0.009014,0.009014
+Power - KP,30,tough_rating,0.003594,0.003594
+Power - LS,1,pass_block_rating,3.155074,3.155074
+Power - LS,2,kick_power_rating,-2.311737,2.311737
+Power - LS,3,throw_power_rating,1.824345,1.824345
+Power - LS,4,lead_block_rating,1.2992,1.2992
+Power - LS,5,strength_rating,1.278186,1.278186
+Power - LS,6,spec_catch_rating,-0.758295,0.758295
+Power - LS,7,impact_block_rating,0.739769,0.739769
+Power - LS,8,route_run_short_rating,-0.395201,0.395201
+Power - LS,9,catch_rating,-0.075398,0.075398
+Power - LS,10,carry_rating,-0.000237,0.000237
+Power - OT,1,run_block_power_rating,1.863844,1.863844
+Power - OT,2,awareness_rating,1.632204,1.632204
+Power - OT,3,pass_block_finesse_rating,1.231411,1.231411
+Power - OT,4,run_block_rating,1.185211,1.185211
+Power - OT,5,strength_rating,0.815991,0.815991
+Power - OT,6,pass_block_power_rating,0.698142,0.698142
+Power - OT,7,run_block_finesse_rating,0.605494,0.605494
+Power - OT,8,speed_rating,0.363644,0.363644
+Power - OT,9,impact_block_rating,0.312955,0.312955
+Power - OT,10,pass_block_rating,0.260832,0.260832
+Power - OT,11,lead_block_rating,0.231108,0.231108
+Power - OT,12,agility_rating,0.211276,0.211276
+Power - OT,13,juke_move_rating,-0.190465,0.190465
+Power - OT,14,block_shed_rating,0.163841,0.163841
+Power - OT,15,accel_rating,0.160784,0.160784
+Power - OT,16,break_tackle_rating,0.150763,0.150763
+Power - OT,17,stamina_rating,-0.097043,0.097043
+Power - OT,18,finesse_moves_rating,-0.076155,0.076155
+Power - OT,19,kick_power_rating,0.060321,0.060321
+Power - OT,20,route_run_med_rating,0.057556,0.057556
+Power - OT,21,tough_rating,0.047091,0.047091
+Power - OT,22,zone_cover_rating,-0.044412,0.044412
+Power - OT,23,stiff_arm_rating,0.039666,0.039666
+Power - OT,24,jump_rating,-0.038833,0.038833
+Power - OT,25,break_sack_rating,0.037439,0.037439
+Power - OT,26,play_rec_rating,-0.033453,0.033453
+Power - OT,27,power_moves_rating,-0.030222,0.030222
+Power - OT,28,change_of_direction_rating,-0.00958,0.00958
+Power Back - HB,1,awareness_rating,2.233382,2.233382
+Power Back - HB,2,break_tackle_rating,1.455042,1.455042
+Power Back - HB,3,truck_rating,1.451531,1.451531
+Power Back - HB,4,stiff_arm_rating,1.425405,1.425405
+Power Back - HB,5,carry_rating,1.068923,1.068923
+Power Back - HB,6,bcv_rating,1.012398,1.012398
+Power Back - HB,7,strength_rating,0.752758,0.752758
+Power Back - HB,8,accel_rating,0.489613,0.489613
+Power Back - HB,9,speed_rating,0.437452,0.437452
+Power Back - HB,10,agility_rating,0.311729,0.311729
+Power Back - HB,11,juke_move_rating,0.132327,0.132327
+Power Back - HB,12,injury_rating,0.095838,0.095838
+Power Back - HB,13,play_action_rating,-0.083892,0.083892
+Power Back - HB,14,hit_power_rating,0.080327,0.080327
+Power Back - HB,15,kick_acc_rating,-0.053598,0.053598
+Power Back - HB,16,pass_block_finesse_rating,-0.050269,0.050269
+Power Back - HB,17,change_of_direction_rating,0.043326,0.043326
+Power Back - HB,18,break_sack_rating,0.040044,0.040044
+Power Back - HB,19,spec_catch_rating,0.025786,0.025786
+Power Back - HB,20,stamina_rating,0.015467,0.015467
+Power Back - HB,21,tough_rating,0.011431,0.011431
+Power Back - HB,22,kick_ret_rating,-0.006981,0.006981
+Power Back - HB,23,zone_cover_rating,0.003436,0.003436
+Power Rusher - DE,1,awareness_rating,1.896785,1.896785
+Power Rusher - DE,2,power_moves_rating,1.352676,1.352676
+Power Rusher - DE,3,strength_rating,1.334034,1.334034
+Power Rusher - DE,4,tackle_rating,1.188794,1.188794
+Power Rusher - DE,5,speed_rating,0.712455,0.712455
+Power Rusher - DE,6,pursuit_rating,0.679183,0.679183
+Power Rusher - DE,7,play_rec_rating,0.553312,0.553312
+Power Rusher - DE,8,block_shed_rating,0.485901,0.485901
+Power Rusher - DE,9,agility_rating,0.436797,0.436797
+Power Rusher - DE,10,accel_rating,0.429785,0.429785
+Power Rusher - DE,11,finesse_moves_rating,0.406358,0.406358
+Power Rusher - DE,12,catch_rating,-0.147384,0.147384
+Power Rusher - DE,13,lead_block_rating,-0.138814,0.138814
+Power Rusher - DE,14,impact_block_rating,0.112846,0.112846
+Power Rusher - DE,15,pass_block_rating,-0.106839,0.106839
+Power Rusher - DE,16,stamina_rating,-0.080901,0.080901
+Power Rusher - DE,17,truck_rating,0.073668,0.073668
+Power Rusher - DE,18,press_rating,0.068894,0.068894
+Power Rusher - DE,19,bcv_rating,0.062045,0.062045
+Power Rusher - DE,20,kick_power_rating,0.059887,0.059887
+Power Rusher - DE,21,play_action_rating,0.052542,0.052542
+Power Rusher - DE,22,cit_rating,0.04723,0.04723
+Power Rusher - DE,23,throw_power_rating,-0.036643,0.036643
+Power Rusher - DE,24,zone_cover_rating,0.036031,0.036031
+Power Rusher - DE,25,break_tackle_rating,0.020648,0.020648
+Power Rusher - DE,26,jump_rating,-0.019584,0.019584
+Power Rusher - DE,27,stiff_arm_rating,-0.014915,0.014915
+Power Rusher - DE,28,throw_acc_deep_rating,-0.006007,0.006007
+Power Rusher - DE,29,tough_rating,-0.004393,0.004393
+Power Rusher - DT,1,play_rec_rating,1.874412,1.874412
+Power Rusher - DT,2,block_shed_rating,1.692555,1.692555
+Power Rusher - DT,3,strength_rating,1.597111,1.597111
+Power Rusher - DT,4,tackle_rating,1.276574,1.276574
+Power Rusher - DT,5,awareness_rating,0.921089,0.921089
+Power Rusher - DT,6,accel_rating,0.706597,0.706597
+Power Rusher - DT,7,pursuit_rating,0.688558,0.688558
+Power Rusher - DT,8,agility_rating,0.392225,0.392225
+Power Rusher - DT,9,speed_rating,0.236791,0.236791
+Power Rusher - DT,10,power_moves_rating,0.235721,0.235721
+Power Rusher - DT,11,hit_power_rating,0.190244,0.190244
+Power Rusher - DT,12,carry_rating,-0.110583,0.110583
+Power Rusher - DT,13,throw_acc_short_rating,0.101797,0.101797
+Power Rusher - DT,14,spin_move_rating,0.073394,0.073394
+Power Rusher - DT,15,bcv_rating,-0.060318,0.060318
+Power Rusher - DT,16,kick_power_rating,0.05676,0.05676
+Power Rusher - DT,17,finesse_moves_rating,0.053295,0.053295
+Power Rusher - DT,18,change_of_direction_rating,0.049713,0.049713
+Power Rusher - DT,19,cit_rating,0.043595,0.043595
+Power Rusher - DT,20,impact_block_rating,0.039125,0.039125
+Power Rusher - DT,21,truck_rating,0.036664,0.036664
+Power Rusher - DT,22,break_tackle_rating,-0.036097,0.036097
+Power Rusher - DT,23,catch_rating,-0.02525,0.02525
+Power Rusher - DT,24,throw_acc_deep_rating,-0.023936,0.023936
+Power Rusher - DT,25,stamina_rating,0.022856,0.022856
+Power Rusher - DT,26,run_block_rating,-0.021146,0.021146
+Power Rusher - DT,27,tough_rating,-0.01786,0.01786
+Power Rusher - DT,28,pass_block_power_rating,-0.012691,0.012691
+Power Rusher - DT,29,throw_power_rating,-0.012608,0.012608
+Power Rusher - DT,30,kick_ret_rating,-0.00909,0.00909
+Power Rusher - DT,31,pass_block_rating,-0.00542,0.00542
+Power Rusher - DT,32,stiff_arm_rating,0.003442,0.003442
+Power Rusher - DT,33,injury_rating,-0.001274,0.001274
+Run Stopper - OLB,1,block_shed_rating,1.31511,1.31511
+Run Stopper - OLB,2,tackle_rating,1.163916,1.163916
+Run Stopper - OLB,3,play_rec_rating,1.147672,1.147672
+Run Stopper - OLB,4,pursuit_rating,0.953443,0.953443
+Run Stopper - OLB,5,awareness_rating,0.692328,0.692328
+Run Stopper - OLB,6,strength_rating,0.617038,0.617038
+Run Stopper - OLB,7,accel_rating,0.545372,0.545372
+Run Stopper - OLB,8,zone_cover_rating,0.473217,0.473217
+Run Stopper - OLB,9,speed_rating,0.356574,0.356574
+Run Stopper - OLB,10,change_of_direction_rating,0.192122,0.192122
+Run Stopper - OLB,11,hit_power_rating,0.188969,0.188969
+Run Stopper - OLB,12,agility_rating,0.163841,0.163841
+Run Stopper - OLB,13,bcv_rating,-0.094587,0.094587
+Run Stopper - OLB,14,man_cover_rating,0.088561,0.088561
+Run Stopper - OLB,15,run_block_power_rating,-0.077154,0.077154
+Run Stopper - OLB,16,break_sack_rating,-0.074835,0.074835
+Run Stopper - OLB,17,throw_power_rating,0.064891,0.064891
+Run Stopper - OLB,18,pass_block_finesse_rating,0.057067,0.057067
+Run Stopper - OLB,19,catch_rating,0.053598,0.053598
+Run Stopper - OLB,20,impact_block_rating,0.0405,0.0405
+Run Stopper - OLB,21,pass_block_rating,-0.038534,0.038534
+Run Stopper - OLB,22,spin_move_rating,0.037068,0.037068
+Run Stopper - OLB,23,run_block_finesse_rating,-0.036285,0.036285
+Run Stopper - OLB,24,spec_catch_rating,-0.030337,0.030337
+Run Stopper - OLB,25,release_rating,0.027251,0.027251
+Run Stopper - OLB,26,carry_rating,-0.024568,0.024568
+Run Stopper - OLB,27,kick_power_rating,0.022901,0.022901
+Run Stopper - OLB,28,kick_acc_rating,-0.022057,0.022057
+Run Stopper - OLB,29,break_tackle_rating,0.020415,0.020415
+Run Stopper - OLB,30,lead_block_rating,-0.019214,0.019214
+Run Stopper - OLB,31,injury_rating,0.015208,0.015208
+Run Stopper - OLB,32,route_run_deep_rating,-0.00844,0.00844
+Run Stopper - OLB,33,kick_ret_rating,0.000602,0.000602
+Run Support - S,1,play_rec_rating,2.963857,2.963857
+Run Support - S,2,awareness_rating,1.722038,1.722038
+Run Support - S,3,tackle_rating,1.403485,1.403485
+Run Support - S,4,zone_cover_rating,0.97451,0.97451
+Run Support - S,5,pursuit_rating,0.846762,0.846762
+Run Support - S,6,man_cover_rating,0.803692,0.803692
+Run Support - S,7,hit_power_rating,0.417031,0.417031
+Run Support - S,8,accel_rating,0.386224,0.386224
+Run Support - S,9,agility_rating,0.326005,0.326005
+Run Support - S,10,jump_rating,0.300278,0.300278
+Run Support - S,11,speed_rating,0.261721,0.261721
+Run Support - S,12,change_of_direction_rating,0.221636,0.221636
+Run Support - S,13,block_shed_rating,0.220087,0.220087
+Run Support - S,14,route_run_short_rating,0.10036,0.10036
+Run Support - S,15,power_moves_rating,0.096792,0.096792
+Run Support - S,16,press_rating,0.08989,0.08989
+Run Support - S,17,throw_acc_deep_rating,-0.087841,0.087841
+Run Support - S,18,cit_rating,-0.081487,0.081487
+Run Support - S,19,pass_block_power_rating,0.067214,0.067214
+Run Support - S,20,catch_rating,0.056258,0.056258
+Run Support - S,21,stiff_arm_rating,-0.054851,0.054851
+Run Support - S,22,kick_power_rating,0.053286,0.053286
+Run Support - S,23,carry_rating,0.04749,0.04749
+Run Support - S,24,tough_rating,0.028389,0.028389
+Run Support - S,25,stamina_rating,0.021322,0.021322
+Run Support - S,26,kick_ret_rating,0.020274,0.020274
+Run Support - S,27,strength_rating,0.015023,0.015023
+Run Support - S,28,lead_block_rating,-0.009339,0.009339
+Run Support - S,29,run_block_rating,-0.000351,0.000351
+Slot - WR,1,awareness_rating,1.723877,1.723877
+Slot - WR,2,route_run_short_rating,1.543223,1.543223
+Slot - WR,3,catch_rating,1.111591,1.111591
+Slot - WR,4,agility_rating,1.029946,1.029946
+Slot - WR,5,route_run_med_rating,0.825517,0.825517
+Slot - WR,6,cit_rating,0.800261,0.800261
+Slot - WR,7,juke_move_rating,0.562969,0.562969
+Slot - WR,8,break_tackle_rating,0.513886,0.513886
+Slot - WR,9,spec_catch_rating,0.471289,0.471289
+Slot - WR,10,release_rating,0.441653,0.441653
+Slot - WR,11,accel_rating,0.405725,0.405725
+Slot - WR,12,speed_rating,0.372709,0.372709
+Slot - WR,13,lead_block_rating,0.21243,0.21243
+Slot - WR,14,break_sack_rating,0.204152,0.204152
+Slot - WR,15,run_block_power_rating,0.180616,0.180616
+Slot - WR,16,impact_block_rating,-0.153985,0.153985
+Slot - WR,17,power_moves_rating,-0.13779,0.13779
+Slot - WR,18,strength_rating,-0.104206,0.104206
+Slot - WR,19,run_block_rating,-0.101447,0.101447
+Slot - WR,20,jump_rating,0.096234,0.096234
+Slot - WR,21,press_rating,0.094484,0.094484
+Slot - WR,22,pass_block_finesse_rating,-0.093963,0.093963
+Slot - WR,23,route_run_deep_rating,0.08007,0.08007
+Slot - WR,24,change_of_direction_rating,0.06485,0.06485
+Slot - WR,25,kick_acc_rating,-0.062627,0.062627
+Slot - WR,26,stiff_arm_rating,-0.061833,0.061833
+Slot - WR,27,truck_rating,0.057248,0.057248
+Slot - WR,28,kick_ret_rating,-0.053452,0.053452
+Slot - WR,29,tackle_rating,0.053266,0.053266
+Slot - WR,30,hit_power_rating,-0.048236,0.048236
+Slot - WR,31,play_rec_rating,-0.047622,0.047622
+Slot - WR,32,carry_rating,-0.034796,0.034796
+Slot - WR,33,kick_power_rating,-0.032551,0.032551
+Slot - WR,34,throw_under_pressure_rating,-0.024134,0.024134
+Slot - WR,35,zone_cover_rating,-0.019521,0.019521
+Slot - WR,36,injury_rating,0.014636,0.014636
+Slot - WR,37,pursuit_rating,0.007714,0.007714
+Smaller Speed Rusher - DE,1,finesse_moves_rating,2.377745,2.377745
+Smaller Speed Rusher - DE,2,awareness_rating,2.058926,2.058926
+Smaller Speed Rusher - DE,3,tackle_rating,1.165719,1.165719
+Smaller Speed Rusher - DE,4,play_rec_rating,1.099343,1.099343
+Smaller Speed Rusher - DE,5,agility_rating,0.656412,0.656412
+Smaller Speed Rusher - DE,6,pursuit_rating,0.556266,0.556266
+Smaller Speed Rusher - DE,7,accel_rating,0.503461,0.503461
+Smaller Speed Rusher - DE,8,speed_rating,0.474688,0.474688
+Smaller Speed Rusher - DE,9,strength_rating,0.438846,0.438846
+Smaller Speed Rusher - DE,10,power_moves_rating,0.299162,0.299162
+Smaller Speed Rusher - DE,11,hit_power_rating,0.212382,0.212382
+Smaller Speed Rusher - DE,12,block_shed_rating,0.085732,0.085732
+Smaller Speed Rusher - DE,13,jump_rating,0.069131,0.069131
+Smaller Speed Rusher - DE,14,throw_under_pressure_rating,-0.03573,0.03573
+Smaller Speed Rusher - DE,15,spec_catch_rating,-0.032703,0.032703
+Smaller Speed Rusher - DE,16,kick_power_rating,0.022053,0.022053
+Smaller Speed Rusher - DE,17,spin_move_rating,0.019264,0.019264
+Smaller Speed Rusher - DE,18,cit_rating,-0.003216,0.003216
+Speed Rusher - DT,1,play_rec_rating,2.010751,2.010751
+Speed Rusher - DT,2,block_shed_rating,1.152745,1.152745
+Speed Rusher - DT,3,strength_rating,1.129665,1.129665
+Speed Rusher - DT,4,tackle_rating,1.014002,1.014002
+Speed Rusher - DT,5,accel_rating,0.756009,0.756009
+Speed Rusher - DT,6,pursuit_rating,0.550567,0.550567
+Speed Rusher - DT,7,awareness_rating,0.536817,0.536817
+Speed Rusher - DT,8,finesse_moves_rating,0.441805,0.441805
+Speed Rusher - DT,9,speed_rating,0.295875,0.295875
+Speed Rusher - DT,10,agility_rating,0.21466,0.21466
+Speed Rusher - DT,11,hit_power_rating,0.17827,0.17827
+Speed Rusher - DT,12,change_of_direction_rating,0.104941,0.104941
+Speed Rusher - DT,13,break_tackle_rating,-0.101116,0.101116
+Speed Rusher - DT,14,spin_move_rating,-0.089521,0.089521
+Speed Rusher - DT,15,impact_block_rating,0.073133,0.073133
+Speed Rusher - DT,16,pass_block_rating,-0.065807,0.065807
+Speed Rusher - DT,17,kick_ret_rating,-0.051859,0.051859
+Speed Rusher - DT,18,throw_under_pressure_rating,0.048694,0.048694
+Speed Rusher - DT,19,lead_block_rating,0.0396,0.0396
+Speed Rusher - DT,20,throw_power_rating,-0.027093,0.027093
+Speed Rusher - DT,21,power_moves_rating,0.019084,0.019084
+Speed Rusher - DT,22,route_run_short_rating,0.012232,0.012232
+Speed Rusher - DT,23,injury_rating,-0.009956,0.009956
+Speed Rusher - DT,24,man_cover_rating,0.003988,0.003988
+Speed Rusher - DT,25,press_rating,-0.003171,0.003171
+Speed Rusher - DT,26,juke_move_rating,-0.003008,0.003008
+Strong Arm - QB,1,awareness_rating,1.670345,1.670345
+Strong Arm - QB,2,throw_power_rating,1.580466,1.580466
+Strong Arm - QB,3,break_sack_rating,1.046354,1.046354
+Strong Arm - QB,4,throw_acc_mid_rating,0.953727,0.953727
+Strong Arm - QB,5,bcv_rating,0.821473,0.821473
+Strong Arm - QB,6,throw_on_run_rating,0.566183,0.566183
+Strong Arm - QB,7,throw_acc_short_rating,0.460275,0.460275
+Strong Arm - QB,8,throw_under_pressure_rating,0.33932,0.33932
+Strong Arm - QB,9,speed_rating,0.319772,0.319772
+Strong Arm - QB,10,change_of_direction_rating,0.281133,0.281133
+Strong Arm - QB,11,throw_acc_deep_rating,0.259916,0.259916
+Strong Arm - QB,12,spin_move_rating,-0.154026,0.154026
+Strong Arm - QB,13,press_rating,-0.095448,0.095448
+Strong Arm - QB,14,run_block_power_rating,-0.06538,0.06538
+Strong Arm - QB,15,carry_rating,0.065267,0.065267
+Strong Arm - QB,16,injury_rating,-0.053179,0.053179
+Strong Arm - QB,17,truck_rating,0.052101,0.052101
+Strong Arm - QB,18,route_run_deep_rating,0.038154,0.038154
+Strong Arm - QB,19,lead_block_rating,0.035485,0.035485
+Strong Arm - QB,20,play_rec_rating,-0.029411,0.029411
+Strong Arm - QB,21,pass_block_finesse_rating,0.027856,0.027856
+Strong Arm - QB,22,tough_rating,-0.01557,0.01557
+Strong Arm - QB,23,juke_move_rating,0.003889,0.003889
+Utility - FB,1,bcv_rating,3.990627,3.990627
+Utility - FB,2,lead_block_rating,1.100873,1.100873
+Utility - FB,3,stamina_rating,0.814467,0.814467
+Utility - FB,4,spin_move_rating,0.34446,0.34446
+Utility - FB,5,run_block_rating,0.328177,0.328177
+Utility - FB,6,stiff_arm_rating,0.237396,0.237396
+Utility - FB,7,truck_rating,0.193406,0.193406
+Utility - FB,8,pass_block_finesse_rating,-0.021434,0.021434
+Vertical Threat - TE,1,awareness_rating,2.377136,2.377136
+Vertical Threat - TE,2,route_run_med_rating,1.618943,1.618943
+Vertical Threat - TE,3,catch_rating,1.276286,1.276286
+Vertical Threat - TE,4,cit_rating,0.790855,0.790855
+Vertical Threat - TE,5,route_run_deep_rating,0.492255,0.492255
+Vertical Threat - TE,6,route_run_short_rating,0.471284,0.471284
+Vertical Threat - TE,7,release_rating,0.435848,0.435848
+Vertical Threat - TE,8,speed_rating,0.432096,0.432096
+Vertical Threat - TE,9,accel_rating,0.387052,0.387052
+Vertical Threat - TE,10,agility_rating,0.348858,0.348858
+Vertical Threat - TE,11,run_block_rating,0.332783,0.332783
+Vertical Threat - TE,12,spec_catch_rating,0.288722,0.288722
+Vertical Threat - TE,13,run_block_finesse_rating,0.256725,0.256725
+Vertical Threat - TE,14,break_tackle_rating,0.253852,0.253852
+Vertical Threat - TE,15,jump_rating,0.215716,0.215716
+Vertical Threat - TE,16,bcv_rating,0.208823,0.208823
+Vertical Threat - TE,17,pass_block_power_rating,0.206953,0.206953
+Vertical Threat - TE,18,truck_rating,0.141837,0.141837
+Vertical Threat - TE,19,stiff_arm_rating,0.141509,0.141509
+Vertical Threat - TE,20,run_block_power_rating,0.133208,0.133208
+Vertical Threat - TE,21,stamina_rating,0.113808,0.113808
+Vertical Threat - TE,22,change_of_direction_rating,0.104659,0.104659
+Vertical Threat - TE,23,tackle_rating,-0.085504,0.085504
+Vertical Threat - TE,24,press_rating,0.081546,0.081546
+Vertical Threat - TE,25,impact_block_rating,0.062398,0.062398
+Vertical Threat - TE,26,spin_move_rating,0.059072,0.059072
+Vertical Threat - TE,27,man_cover_rating,-0.057444,0.057444
+Vertical Threat - TE,28,pass_block_finesse_rating,0.054821,0.054821
+Vertical Threat - TE,29,finesse_moves_rating,0.040181,0.040181
+Vertical Threat - TE,30,pass_block_rating,0.039464,0.039464
+Vertical Threat - TE,31,juke_move_rating,0.037958,0.037958
+Vertical Threat - TE,32,lead_block_rating,-0.022682,0.022682
+Vertical Threat - TE,33,play_rec_rating,0.008955,0.008955
+Vertical Threat - TE,34,injury_rating,-0.006774,0.006774
+Vertical Threat - TE,35,kick_acc_rating,-0.000579,0.000579
+Vertical Threat - TE,36,kick_ret_rating,-5.4e-05,5.4e-05
+Zone - CB,1,zone_cover_rating,2.198439,2.198439
+Zone - CB,2,awareness_rating,1.917151,1.917151
+Zone - CB,3,play_rec_rating,1.175376,1.175376
+Zone - CB,4,accel_rating,0.754385,0.754385
+Zone - CB,5,tackle_rating,0.723738,0.723738
+Zone - CB,6,man_cover_rating,0.704989,0.704989
+Zone - CB,7,speed_rating,0.665783,0.665783
+Zone - CB,8,press_rating,0.570285,0.570285
+Zone - CB,9,change_of_direction_rating,0.356521,0.356521
+Zone - CB,10,agility_rating,0.261652,0.261652
+Zone - CB,11,catch_rating,0.206212,0.206212
+Zone - CB,12,jump_rating,0.138374,0.138374
+Zone - CB,13,break_tackle_rating,-0.057524,0.057524
+Zone - CB,14,injury_rating,0.055737,0.055737
+Zone - CB,15,finesse_moves_rating,0.048181,0.048181
+Zone - CB,16,run_block_rating,-0.042424,0.042424
+Zone - CB,17,juke_move_rating,0.036674,0.036674
+Zone - CB,18,lead_block_rating,0.033311,0.033311
+Zone - CB,19,strength_rating,-0.027175,0.027175
+Zone - CB,20,break_sack_rating,0.016521,0.016521
+Zone - CB,21,route_run_med_rating,0.016068,0.016068
+Zone - CB,22,power_moves_rating,0.00943,0.00943
+Zone - CB,23,pass_block_finesse_rating,0.002305,0.002305
+Zone - CB,24,hit_power_rating,0.002014,0.002014
+Zone - S,1,awareness_rating,3.519672,3.519672
+Zone - S,2,zone_cover_rating,2.28668,2.28668
+Zone - S,3,tackle_rating,0.899487,0.899487
+Zone - S,4,pursuit_rating,0.554571,0.554571
+Zone - S,5,speed_rating,0.550818,0.550818
+Zone - S,6,play_rec_rating,0.43078,0.43078
+Zone - S,7,agility_rating,0.373244,0.373244
+Zone - S,8,accel_rating,0.334505,0.334505
+Zone - S,9,jump_rating,0.235116,0.235116
+Zone - S,10,man_cover_rating,0.208756,0.208756
+Zone - S,11,change_of_direction_rating,0.195226,0.195226
+Zone - S,12,strength_rating,0.16482,0.16482
+Zone - S,13,spec_catch_rating,0.027289,0.027289
+Zone - S,14,release_rating,0.018521,0.018521
+Zone - S,15,stamina_rating,0.01676,0.01676
+Zone - S,16,kick_acc_rating,0.013963,0.013963
+Zone - S,17,lead_block_rating,0.00674,0.00674
+Zone - S,18,throw_under_pressure_rating,0.005268,0.005268
+Zone - S,19,throw_acc_deep_rating,0.000807,0.000807
